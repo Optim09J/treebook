@@ -3,3 +3,9 @@ hello:
   last_name: "world"
   email: "hw109@gmail.com"
   profile_name: "helloworld"
+
+yo:
+  first_name: "yo"
+  last_name: "lo"
+  email: "yolo@gmail.com"
+  profile_name: "yoyolo"
